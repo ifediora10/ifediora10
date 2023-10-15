@@ -1,3 +1,7 @@
+HI there, I'm IK
+-------------------------------------------------------------------------------------------------------------------------------
+I'm a Software Developer and Teacher!!
+-------------------------------------------------------------------------------------------------------------------------------
 - 👯 I’m looking to collaborate with other software developers
 - 🥅 2023 Goals: Learn more about REACT
 - ⚡ Fun fact: I love to read stories and I write books too
